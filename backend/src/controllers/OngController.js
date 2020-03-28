@@ -1,5 +1,5 @@
+const genereteUniqueId = require('../utils/generateUniqueId');
 const connection = require('../database/connection');
-const crypto = require('crypto');
 
 module.exports = {
   //rota para listar todas as ongs do banco de dados:
@@ -13,7 +13,7 @@ module.exports = {
   async create (request, response) {
     const { name, email, whatsapp, city, uf } = request.body;
 
-    const id = crypto.randomBytes(4).toString('HEX');
+    const id = genereteUniqueId(); //função de teste
 
     await connection('ongs').insert({
       id, 
