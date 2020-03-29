@@ -19,7 +19,7 @@
 
  # Projeto  <img alt="foguete rocketseat" src="./github/mobileicon.svg" width="50px" align="center"> 
  
-<p>O **Be The Hero** é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é conectar possíveis financiadores (Heróis) a campanhas de relevância para a sociedade criadas por ONG's.</p>
+<p>O <strong>Be The Hero</strong> é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é conectar possíveis financiadores (Heróis) a campanhas de relevância para a sociedade criadas por ONG's.</p>
 <p>A aplicação foi desenvolvida durante a Semana Omnistack 11.0 promovida pela Rocketseat. O projeto avançou por todas as camadas de desenvolvimento, tratando as melhores tecnologias do mercado, levando o aluno a desenvolver dês do back-end até o front-end mobile.</p>
 
 
