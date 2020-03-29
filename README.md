@@ -33,9 +33,12 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 - [Axios](https://www.npmjs.com/package/axios)
 - [KnexJS](http://knexjs.org/)
 - [Nodemon](https://nodemon.io/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [SQLite3](https://www.sqlite.org/index.html)
 - [Jest](https://jestjs.io/)
+- [Supertest](https://www.npmjs.com/package/supertest)
+- [Celebrate](https://github.com/arb/celebrate)
 - [Cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
+- [Cross-env](https://www.npmjs.com/package/cross-env)
 - [Insomnia](https://insomnia.rest/)
  
 # Layouts
