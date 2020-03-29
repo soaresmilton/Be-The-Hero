@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layouts">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -23,7 +23,7 @@
 <p>A aplicação foi desenvolvida durante a Semana Omnistack 11.0 promovida pela Rocketseat. O projeto avançou por todas as camadas de desenvolvimento, tratando as melhores tecnologias do mercado, levando o aluno a desenvolver dês do back-end até o front-end mobile.</p>
 
 
- # Tecnologias usadas
+ # Tecnologias usadas :rocket:
 Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mobile, banco de dados, conexões, rotas, validações e testes automatizados.
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -78,7 +78,7 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-# :memo: Licença
+#  Licença :memo:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
