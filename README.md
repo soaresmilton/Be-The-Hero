@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="# Projeto">Projeto</a>& bsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layouts">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -78,10 +78,10 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-#  Licença :memo:
+# :memo: Licença 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ❤️ by **Rocketseat/mpgxc**
+Feito com ❤️ by **Rocketseat**
