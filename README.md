@@ -49,9 +49,8 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
 ![Lista de casos](github/casos.png)
 ![Cadastro de casos](github/cadastro.png)
 
-# Front-end mobile desenvolvido com React Native
 <h2>
-  Mobile desenvolvido com React Native  
+  Front-end mobile desenvolvido com React Native  
   <img alt="react native icon" src="./github/reactnative.png" width="35px" align="center">
   emulando em Android
   <img alt="android icon" src="./github/android.svg" width="35px" align="center">
