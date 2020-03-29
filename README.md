@@ -17,7 +17,6 @@
 
 <br>
 
-
  # Projeto  <img alt="foguete rocketseat" src="./github/mobileicon.svg" width="50px" align="center"> 
  
 <p>O **Be The Hero** é um projeto desenvolvido com Node.js, React.js e React Native, cuja a ideia é conectar possíveis financiadores (Heróis) a campanhas de relevância para a sociedade criadas por ONG's.</p>
