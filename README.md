@@ -11,6 +11,7 @@
    <a href="#projeto--">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-usadas-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layouts">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layouts">Utilizando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -70,6 +71,20 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
  </h2> 
  
 ![backend da aplicação](github/backend.png)
+
+## Rodando a aplicação 
+
+#### Back-end
+1 - `npm install` para baixar todas as dependências necessárias.
+
+2 - `npx knex migrate:latest` para executar as migrations e criar as tabelas do banco de dados.
+
+3 - `npm start` para rodar o servidor.
+
+#### Front-end Web
+1 - `npm install` para baixar todas as dependências necessárias.
+
+2 - `npm start` para rodar o servidor.
 
 # Como contribuir 
 
