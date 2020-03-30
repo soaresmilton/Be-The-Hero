@@ -72,7 +72,7 @@ Principais tecnologias utilizadas para o desenvolvimento back-end, front-end, mo
  
 ![backend da aplicação](github/backend.png)
 
-## Rodando a aplicação 
+# Rodando a aplicação 
 
 #### Back-end
 1 - `npm install` para baixar todas as dependências necessárias.
